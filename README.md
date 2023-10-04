@@ -7,7 +7,7 @@
 ![My Skills](https://skills.thijs.gg/icons?i=js,java,c,cpp,py,html,css,postgres,kotlin,markdown,bash,latex,ocaml)
 
 ## Frameworks and tools I have worked with before:
-![My Skills](https://skills.thijs.gg/icons?i=spring,git,github,gitlab,gradle,maven,linux,postman,tensorflow,fastapi,docker,react)
+![My Skills](https://skills.thijs.gg/icons?i=spring,git,github,gitlab,gradle,maven,linux,postman,tensorflow,fastapi,docker,react,androidstudio)
 
 
 
