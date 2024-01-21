@@ -9,6 +9,9 @@
 ## Frameworks and tools I have worked with before:
 ![My Skills](https://skills.thijs.gg/icons?i=spring,git,github,gitlab,gradle,maven,linux,postman,tensorflow,fastapi,docker,react,androidstudio)
 
+## Learning:
+![My Skills](https://skills.thijs.gg/icons?i=solidity)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Berna-RV&count_private=true&show_icons=true&theme=tokyonight)
