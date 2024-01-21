@@ -10,7 +10,7 @@
 ![My Skills](https://skills.thijs.gg/icons?i=spring,git,github,gitlab,gradle,maven,linux,postman,tensorflow,fastapi,docker,react,androidstudio)
 
 ## Learning:
-![My Skills](https://skills.thijs.gg/icons?i=solidity)
+![My Skills](https://skills.thijs.gg/icons?i=solidity,nodejs)
 
 
 
