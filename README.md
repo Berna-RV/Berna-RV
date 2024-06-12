@@ -10,7 +10,7 @@
 ![My Skills](https://skillicons.dev/icons?i=spring,git,github,gitlab,gradle,maven,linux,postman,tensorflow,fastapi,docker,react,androidstudio,pytorch)
 
 ## Learning:
-![My Skills](https://skillicons.dev/icons?i=solidity,nodejs)
+![My Skills](https://skillicons.dev/icons?i=solidity,nodejs,kali)
 
 
 
