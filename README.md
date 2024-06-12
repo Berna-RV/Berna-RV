@@ -7,7 +7,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,java,c,cpp,py,html,css,postgres,kotlin,markdown,bash,latex,ocaml)
 
 ## Frameworks and tools I have worked with before:
-![My Skills](https://skillicons.dev/icons?i=spring,git,github,gitlab,gradle,maven,linux,postman,tensorflow,fastapi,docker,react,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=spring,git,github,gitlab,gradle,maven,linux,postman,tensorflow,fastapi,docker,react,androidstudio,pytorch)
 
 ## Learning:
 ![My Skills](https://skillicons.dev/icons?i=solidity,nodejs)
